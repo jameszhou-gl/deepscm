@@ -9,7 +9,7 @@ This repository contains the code for the paper
 > N. Pawlowski<sup>+</sup>, D. C. Castro<sup>+</sup>, B. Glocker. _Deep Structural Causal Models for Tractable Counterfactual Inference_. Advances in Neural Information Processing Systems. 2020 [[NeurIPS Proceedings]](https://proceedings.neurips.cc//paper_files/paper/2020/hash/0987b8b338d6c90bbedd8631bc499221-Abstract.html) [[arXiv]](https://arxiv.org/abs/2006.06485) [[NeurIPS]](https://neurips.cc/virtual/2020/public/poster_0987b8b338d6c90bbedd8631bc499221.html)[[Poster]](assets/dscm_poster.pdf)
 
 (<sup>+</sup>: joint first authors)
-
+ 
 If you use these tools or datasets in your publications, please consider citing the accompanying paper with a BibTeX entry similar to the following:
 
 ```

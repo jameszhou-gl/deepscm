@@ -5,8 +5,10 @@ import numpy as np
 import pandas as pd
 import torch
 from torch.utils.data import Dataset
-
-from deepscm.morphomnist import io
+import sys
+sys.path.insert(0, '/home/guanglinzhou/code/deepscm')
+sys.path.insert(1, '/home/guanglinzhou/code/deepscm/deepscm')
+from ../../morphomnist import io
 
 
 def _get_paths(root_dir, train):

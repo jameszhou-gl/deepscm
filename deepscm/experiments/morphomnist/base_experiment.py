@@ -18,7 +18,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-from deepscm.morphomnist import measure
+from deepscm.deepscm.morphomnist import measure
 import os
 from functools import partial
 import multiprocessing

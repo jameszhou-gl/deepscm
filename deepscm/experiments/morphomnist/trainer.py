@@ -1,3 +1,7 @@
+import sys
+sys.path.insert(0, '/home/guanglinzhou/code/deepscm')
+sys.path.insert(1, '/home/guanglinzhou/code/deepscm/deepscm')
+
 from deepscm.experiments import morphomnist  # noqa: F401
 from .base_experiment import EXPERIMENT_REGISTRY, MODEL_REGISTRY
 
